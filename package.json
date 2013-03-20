@@ -3,17 +3,17 @@
   "version": "0.1.3",
   "description": "A utilities package for node.js,for example mixin properties to object from one or more object",
   "keywords": [
-	"util",
+    "util",
     "mixin",
-	"extend"
+    "extend"
   ],
   "author": {
     "name": "youjiang wang",
     "email": "gm731958576@gmail.com",
     "url": "https://github.com/notejs"
   },
-  "homepage": "",
-  "bugs": "",
+  "homepage": "https://github.com/notejs",
+  "bugs": "https://github.com/notejs/jsutil/issues",
   "main": "./src/jsutil.js",
   "repository": {
     "type": "git",
