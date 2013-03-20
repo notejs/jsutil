@@ -1,0 +1,22 @@
+{
+  "name": "jsutil",
+  "version": "0.1",
+  "description": "Mixin properties to object from one or more Object",
+  "keywords": [
+    "mixin",
+	"extend"
+  ],
+  "author": {
+    "name": "youjiang wang",
+    "email": "gm731958576@gmail.com",
+    "url": ""
+  },
+  "homepage": "",
+  "bugs": "",
+  "main": "./src/jsutil.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "readmeFilename": "README.md"
+}
